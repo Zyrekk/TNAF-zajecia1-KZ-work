@@ -1,0 +1,44 @@
+.form1{
+    color: rgb(255, 157, 0);
+}
+
+.container{
+
+}
+
+.info1{
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    flex-direction: row;
+    margin: auto;
+}
+
+.firstName{
+    color: rgb(255, 157, 0);
+}
+
+.lastName{
+    color: rgb(255, 157, 0);
+    margin-left: 40px;
+}
+
+.info2{
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    flex-direction: row;
+    margin: auto;
+}
+
+.email{
+    color: rgb(255, 157, 0);
+}
+.phone{
+    color: rgb(255, 157, 0);
+    margin-left: 40px;
+}
+.birthdate{
+    color: rgb(255, 157, 0);
+    margin-left: 40px;
+}
